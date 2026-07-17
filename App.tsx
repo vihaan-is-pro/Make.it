@@ -1,5 +1,5 @@
 // @ts-ignore
-import MetroNexusLogo from './assets/metro nexus logo.jpeg';
+import MetroNexusLogo from './metro nexus logo.jpeg';
 import React, { useState, useEffect, useRef, createContext, useContext } from 'react';
 import { motion, useScroll, useTransform, AnimatePresence, useSpring, useMotionValue } from 'framer-motion';
 import { 
