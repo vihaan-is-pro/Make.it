@@ -4,5 +4,5 @@ import tailwindcss from '@tailwindcss/vite'
 
 export default defineConfig({
   plugins: [react(), tailwindcss()],
-  base: '/YOUR-REPOSITORY-NAME/', // <-- Change this to your exact GitHub repo name!
+  base: '/Make.it/', // <-- Change this to your exact GitHub repo name!
 })
